@@ -9,3 +9,6 @@ git log nama-file.ekstensi
 
 # Untuk melihat log berdasarkan kode commit tertentu commit
 git log comit-code-nya
+
+# Untuk melihat log bersarkan user tertentu, bisa username atau email
+git log --author="Mathius"

@@ -34,7 +34,7 @@ git add .
 # mengubah status nya ke commited
 git commit -m 'message-nya'
 
-# Jenis-jenis Status Git
+# Jenis-jenis Status Git (test)
 # 1. Modified (keadaan file ketika kita membuat file baru, atau mengedit file yg sudah ada. akan di tampilkan di git status)
 # 2. Staged (Keadaan dimana file atau beberapa file sudah di tandai oleh git untuk di saved ke dalam git database. Akan di tampilkan di git status)
 # 3. Commited (keadaan dimana setiap perubahah file sudah ter-record atau di saved ke dalam git database. Tidak akan di tampilkan di git status)

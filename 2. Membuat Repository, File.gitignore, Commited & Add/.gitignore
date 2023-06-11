@@ -1,0 +1,10 @@
+# File .gitignore berguna untuk menentukan
+# file-file atau folder-folder mana saya
+# yang tidak di inginkan untuk ter-record oleh git
+
+# Contoh dibawah ini akan membuat folder 
+# vendor dan test serta file test.js tidak
+# akan ter-record oleh git.
+/vendor
+/test/
+test.js

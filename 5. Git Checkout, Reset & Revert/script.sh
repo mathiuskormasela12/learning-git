@@ -13,3 +13,6 @@ git checkout HEAD~3 nama-file.ext
 
 # Revert ke semua perubahan yg ada
 git revert -n code-commit-nya
+
+# Revert ke semua perubah yg ada (akan buat branch baru)
+git checkout code-commit-nya
